@@ -1,0 +1,3 @@
+﻿  RemoveElement.cpp
+D:\DSA\RemoveElement\RemoveElement.cpp(7,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RemoveElement.vcxproj -> D:\DSA\RemoveElement\x64\Debug\RemoveElement.exe
