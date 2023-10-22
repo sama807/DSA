@@ -1,0 +1,14 @@
+﻿  prefix.cpp
+D:\DSA\Infix ,Prefix, Posfix Evaluation\prefix.cpp(12,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DSA\Infix ,Prefix, Posfix Evaluation\prefix.cpp(46,16): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\DSA\Infix ,Prefix, Posfix Evaluation\prefix.cpp(10,7): warning C4101: 'ch': unreferenced local variable
+D:\DSA\Infix ,Prefix, Posfix Evaluation\prefix.cpp(96,15): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  InfixEvaluation.vcxproj -> D:\DSA\Infix ,Prefix, Posfix Evaluation\x64\Debug\PrefixEvaluation.exe

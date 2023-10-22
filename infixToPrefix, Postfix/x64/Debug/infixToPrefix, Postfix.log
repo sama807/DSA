@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\DSA\infixToPrefix, Postfix\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\DSA\infixToPrefix, Postfix\main.cpp(70,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  infixToPrefix, Postfix.vcxproj -> D:\DSA\infixToPrefix, Postfix\x64\Debug\infixToPrefix, Postfix.exe
