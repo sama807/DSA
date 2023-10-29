@@ -1,0 +1,9 @@
+﻿  LinkList.cpp
+  LinkList_implementation.cpp
+  main.cpp
+  Node.cpp
+  node_implementation.cpp
+D:\DSA\LinkList\node_implementation.cpp(2,25): warning C4099: 'Node<int>': type name first seen using 'struct' now seen using 'class'
+D:\DSA\LinkList\node_implementation.cpp(2,16): message : see declaration of 'Node<int>'
+  Generating Code...
+  LinkList.vcxproj -> D:\DSA\LinkList\x64\Debug\LinkList.exe
